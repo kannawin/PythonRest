@@ -1,5 +1,5 @@
 # PythonRest
 
- - install Quandl beforehand
+- install Quandl beforehand
   - 'pip3 install quandl'
   - or 'pip install quandl'
