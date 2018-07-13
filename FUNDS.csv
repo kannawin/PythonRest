@@ -1,0 +1,184 @@
+ASIA,ASIA
+7203 JT Equity,"Consumer, Cyclical"
+7267 JT Equity,"Consumer, Cyclical"
+6758 JT Equity,"Consumer, Cyclical"
+601163 CH Equity,"Consumer, Cyclical"
+002292 CH Equity,"Consumer, Cyclical"
+601966 CH Equity,"Consumer, Cyclical"
+9432 JT Equity,Communications
+9437 JT Equity,Communications
+9984 JT Equity,Communications
+002465 CH Equity,Communications
+300017 CH Equity,Communications
+002074 CH Equity,Communications
+6954 JT Equity,Industrial
+9020 JT Equity,Industrial
+9022 JT Equity,Industrial
+600685 CH Equity,Industrial
+601608 CH Equity,Industrial
+000738 CH Equity,Industrial
+7751 JT Equity,Technology
+8035 JT Equity,Technology
+9613 JT Equity,Technology
+300315 CH Equity,Technology
+002174 CH Equity,Technology
+002065 CH Equity,Technology
+4063 JT Equity,Basic Materials
+5401 JT Equity,Basic Materials
+3407 JT Equity,Basic Materials
+601118 CH Equity,Basic Materials
+601958 CH Equity,Basic Materials
+000060 CH Equity,Basic Materials
+2914 JT Equity,"Consumer, Non-cyclical"
+4502 JT Equity,"Consumer, Non-cyclical"
+6098 JT Equity,"Consumer, Non-cyclical"
+002424 CH Equity,"Consumer, Non-cyclical"
+000623 CH Equity,"Consumer, Non-cyclical"
+002385 CH Equity,"Consumer, Non-cyclical"
+8306 JT Equity,Financial
+8316 JT Equity,Financial
+6178 JT Equity,Financial
+601375 CH Equity,Financial
+002839 CH Equity,Financial
+000686 CH Equity,Financial
+5020 JT Equity,Energy
+1605 JT Equity,Energy
+601857 CH Equity,Energy
+600583 CH Equity,Energy
+000983 CH Equity,Energy
+600871 CH Equity,Energy
+9503 JT Equity,Utilities
+9531 JT Equity,Utilities
+9502 JT Equity,Utilities
+600021 CH Equity,Utilities
+002608 CH Equity,Utilities
+600674 CH Equity,Utilities
+600705 CH Equity,Diversified
+600415 CH Equity,Diversified
+NKY Index,Index
+HSI Index,Index
+SHSZ300 Index,Index
+AS51 Index,Index
+EU,EU
+NOVOB DC Equity,"Consumer, Non-cyclical"
+NESN SW Equity,"Consumer, Non-cyclical"
+NOVN SW Equity,"Consumer, Non-cyclical"
+DIA SM Equity,"Consumer, Non-cyclical"
+CPI LN Equity,"Consumer, Non-cyclical"
+INDV LN Equity,"Consumer, Non-cyclical"
+NDA SS Equity,Financial
+INVEB SS Equity,Financial
+DNB NO Equity,Financial
+ALPHA GA Equity,Financial
+ETE GA Equity,Financial
+PHNX LN Equity,Financial
+VOLVB SS Equity,"Consumer, Cyclical"
+HMB SS Equity,"Consumer, Cyclical"
+MC FP Equity,"Consumer, Cyclical"
+DC/ LN Equity,"Consumer, Cyclical"
+ELIOR FP Equity,"Consumer, Cyclical"
+INCH LN Equity,"Consumer, Cyclical"
+STL NO Equity,Energy
+RDSA LN Equity,Energy
+FP FP Equity,Energy
+SPM IM Equity,Energy
+VPK NA Equity,Energy
+DCC LN Equity,Energy
+SAP GR Equity,Technology
+ASML NA Equity,Technology
+AMS SM Equity,Technology
+GTO NA Equity,Technology
+ING FP Equity,Technology
+LOGN SW Equity,Technology
+ATCOA SS Equity,Industrial
+ASSAB SS Equity,Industrial
+SAND SS Equity,Industrial
+ECM LN Equity,Industrial
+SXS LN Equity,Industrial
+COB LN Equity,Industrial
+NHY NO Equity,Basic Materials
+NZYMB DC Equity,Basic Materials
+YAR NO Equity,Basic Materials
+OUT1V FH Equity,Basic Materials
+KAZ LN Equity,Basic Materials
+APAM NA Equity,Basic Materials
+TEL NO Equity,Communications
+ERICB SS Equity,Communications
+TELIA SS Equity,Communications
+ISAT LN Equity,Communications
+TL5 SM Equity,Communications
+AUTO LN Equity,Communications
+ORSTED DC Equity,Utilities
+ENEL IM Equity,Utilities
+IBE SM Equity,Utilities
+PNN LN Equity,Utilities
+IG IM Equity,Utilities
+HER IM Equity,Utilities
+INDUA SS Equity,Diversified
+BOL FP Equity,Diversified
+SX5E index,Index
+UKX Index,Index
+CAC Index,Index
+DAX Index,Index
+IBEX Index,Index
+FTSEMIB Index,Index
+OMX Index,Index
+SMI Index,Index
+USA,USA
+BRK/B UN Equity,Financial
+JPM UN Equity,Financial
+BAC UN Equity,Financial
+NAVI UW Equity,Financial
+AIZ UN Equity,Financial
+PBCT UW Equity,Financial
+GOOGL UW Equity,Communications
+AMZN UW Equity,Communications
+TRIP UW Equity,Communications
+IPG UN Equity,Communications
+FFIV UW Equity,Communications
+AAPL UW Equity,Technology
+MSFT UW Equity,Technology
+INTC UW Equity,Technology
+CSRA UN Equity,Technology
+XRX UN Equity,Technology
+QRVO UW Equity,Technology
+BA UN Equity,Industrial
+GE UN Equity,Industrial
+MMM UN Equity,Industrial
+FLS UN Equity,Industrial
+SRCL UW Equity,Industrial
+FLIR UW Equity,Industrial
+XOM UN Equity,Energy
+CVX UN Equity,Energy
+SLB UN Equity,Energy
+CHK UN Equity,Energy
+RRC UN Equity,Energy
+NFX UN Equity,Energy
+JNJ UN Equity,"Consumer, Non-cyclical"
+PG UN Equity,"Consumer, Non-cyclical"
+PFE UN Equity,"Consumer, Non-cyclical"
+PDCO UW Equity,"Consumer, Non-cyclical"
+EVHC UN Equity,"Consumer, Non-cyclical"
+HRB UN Equity,"Consumer, Non-cyclical"
+WMT UN Equity,"Consumer, Cyclical"
+HD UN Equity,"Consumer, Cyclical"
+MCD UN Equity,"Consumer, Cyclical"
+SIG UN Equity,"Consumer, Cyclical"
+MAT UW Equity,"Consumer, Cyclical"
+FL UN Equity,"Consumer, Cyclical"
+NEE UN Equity,Utilities
+DUK UN Equity,Utilities
+D UN Equity,Utilities
+SCG UN Equity,Utilities
+AES UN Equity,Utilities
+NI UN Equity,Utilities
+DWDP UN Equity,Basic Materials
+MON UN Equity,Basic Materials
+PX UN Equity,Basic Materials
+MOS UN Equity,Basic Materials
+CF UN Equity,Basic Materials
+IFF UN Equity,Basic Materials
+LUK UN Equity,Diversified
+SPX Index,Index
+NDX Index,Index
+RTY Index,Index
